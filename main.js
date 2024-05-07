@@ -1,3 +1,4 @@
+#! /usr/bin/env node
 import inquirer from "inquirer";
 console.log("\n \t Welcome to 'Shuaib' - Currency Convertor\n");
 // Deffine a list a currencies and thier exchange rates
